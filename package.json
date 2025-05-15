@@ -11,6 +11,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "4.18.2"
-  }
+    "express": "^4.18.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karine0207/sprint-11-challenge-1-CRUD.git"
+  },
+  "bugs": {
+    "url": "https://github.com/karine0207/sprint-11-challenge-1-CRUD/issues"
+  },
+  "homepage": "https://github.com/karine0207/sprint-11-challenge-1-CRUD#readme"
 }
